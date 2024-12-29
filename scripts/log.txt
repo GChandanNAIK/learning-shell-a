@@ -1,0 +1,5 @@
+INFO: Server started
+ERROR: Could not connect to database
+INFO: Request received
+ERROR: Timeout occurred
+INFO: Server shutdown
