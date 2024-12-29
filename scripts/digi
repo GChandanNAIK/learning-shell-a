@@ -1,0 +1,1 @@
+echo -e "\033[1;32m$current_time\033[0m"  # Green color for the clock
